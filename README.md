@@ -1,6 +1,6 @@
 # Pet-Adoption-Matcher
 
-Final project for the Building AI course
+Building AI course project
 
 ## Summary
 
